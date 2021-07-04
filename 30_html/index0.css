@@ -1,0 +1,46 @@
+p {
+    font-size: 170%
+}
+html {
+    border:1px solid rgba(109, 87, 87, 0.336);
+}
+div {
+    border:1px solid rgb(12, 0, 0)
+}
+
+.header {
+    background-color: rgba(128, 128, 128, 0.205);
+    text-align: center;
+    border: 1px solid black;
+    color:rgb(12, 0, 0);
+    height: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.content {
+    /* width: 100; */
+    margin-top: 25px; 
+    background-color: rgba(128, 128, 128, 0.205);
+    border:1px solid rgba(12, 0, 0);
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.news {
+    width: 500px;
+    background-color:rgba(128, 128, 128, 0.205);;
+    margin-top: 20px;
+    height: 60px;
+    border: 1px solid black;
+}
+.adress {
+    margin-top: 50px;
+    background-color: rgba(128, 128, 128, 0.205);
+    text-align: center;
+    border: 1px solid black;
+    color:rgb(12, 0, 0);
+    height: 60px;
+    padding-top: 20px;
+}
